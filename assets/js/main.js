@@ -27,7 +27,7 @@ function cronometro(){
                 clearInterval(cId);
                 end();
             }
-        },100);
+        },1000);
     });
 }
 
